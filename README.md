@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
-[ ] What is DevOps?
-[ ] AWS re:Invent 2015: DevOps at Amazon: A Look at Our Tools and Processes
+[x] What is DevOps?
+[x] AWS re:Invent 2015: DevOps at Amazon: A Look at Our Tools and Processes
 [ ] Learn to Build on AWS: DevOps
 ```
