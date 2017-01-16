@@ -17,5 +17,8 @@ Learn everything you need to about the subject of this `Tutorial` project.
 ```
 [x] What is DevOps?
 [x] AWS re:Invent 2015: DevOps at Amazon: A Look at Our Tools and Processes
-[ ] Learn to Build on AWS: DevOps
+Getting Started with Amazon EC2 Linux Instances
+[x] Overview
+[x] Prerequisites
+[x] Launch an Amazon EC2 Instance
 ```
